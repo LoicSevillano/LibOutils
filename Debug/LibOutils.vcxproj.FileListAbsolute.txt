@@ -1,0 +1,2 @@
+C:\Users\Jacques\Source\Repos\GlobalOne\Debug\LibOutils.pdb
+C:\Users\Jacques\Source\Repos\LibOutils\Debug\LibOutils.pdb

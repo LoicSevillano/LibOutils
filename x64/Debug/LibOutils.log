@@ -1,0 +1,4 @@
+﻿  CListBox.cpp
+D:\Workspace Dev\VisualStudioProjects\LibOutils\CListBox.cpp(10,21): warning C4244: 'return': conversion from 'LRESULT' to 'int', possible loss of data
+D:\Workspace Dev\VisualStudioProjects\LibOutils\CListBox.cpp(26,11): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  LibOutils.vcxproj -> D:\Workspace Dev\VisualStudioProjects\GlobalOne\x64\Debug\LibOutils.lib
